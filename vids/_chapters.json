@@ -1,0 +1,133 @@
+{
+  "book": "university-physics-bundle-with-llms",
+  "book_title": "university-physics-bundle-with-llms",
+  "chapter_count": 18,
+  "chapters": [
+    {
+      "file": "chapters/00-introduction.md",
+      "path": "/Users/nik/Documents/Cowork/university-physics-bundle-with-llms/chapters/00-introduction.md",
+      "title": "Introduction",
+      "words": 762,
+      "images": 0
+    },
+    {
+      "file": "chapters/02-units-and-measurement.md",
+      "path": "/Users/nik/Documents/Cowork/university-physics-bundle-with-llms/chapters/02-units-and-measurement.md",
+      "title": "Chapter 2 — Units and Measurement",
+      "words": 7637,
+      "images": 0
+    },
+    {
+      "file": "chapters/03-vectors.md",
+      "path": "/Users/nik/Documents/Cowork/university-physics-bundle-with-llms/chapters/03-vectors.md",
+      "title": "Chapter 3 — Vectors",
+      "words": 4310,
+      "images": 0
+    },
+    {
+      "file": "chapters/04-motion-along-a-straight-line.md",
+      "path": "/Users/nik/Documents/Cowork/university-physics-bundle-with-llms/chapters/04-motion-along-a-straight-line.md",
+      "title": "Motion Along a Straight Line",
+      "words": 6024,
+      "images": 0
+    },
+    {
+      "file": "chapters/05-motion-in-two-and-three-dimensions.md",
+      "path": "/Users/nik/Documents/Cowork/university-physics-bundle-with-llms/chapters/05-motion-in-two-and-three-dimensions.md",
+      "title": "Chapter 5: Motion in Two and Three Dimensions",
+      "words": 6193,
+      "images": 0
+    },
+    {
+      "file": "chapters/06-newton-s-laws-of-motion.md",
+      "path": "/Users/nik/Documents/Cowork/university-physics-bundle-with-llms/chapters/06-newton-s-laws-of-motion.md",
+      "title": "Chapter 6 — Newton's Laws of Motion",
+      "words": 6646,
+      "images": 0
+    },
+    {
+      "file": "chapters/07-applications-of-newton-s-laws.md",
+      "path": "/Users/nik/Documents/Cowork/university-physics-bundle-with-llms/chapters/07-applications-of-newton-s-laws.md",
+      "title": "Applications of Newton's Laws — Friction, Drag, and Centripetal Force",
+      "words": 6898,
+      "images": 0
+    },
+    {
+      "file": "chapters/08-work-and-kinetic-energy.md",
+      "path": "/Users/nik/Documents/Cowork/university-physics-bundle-with-llms/chapters/08-work-and-kinetic-energy.md",
+      "title": "Chapter 8 — Work and Kinetic Energy",
+      "words": 5658,
+      "images": 0
+    },
+    {
+      "file": "chapters/09-potential-energy-and-conservation-of-energy.md",
+      "path": "/Users/nik/Documents/Cowork/university-physics-bundle-with-llms/chapters/09-potential-energy-and-conservation-of-energy.md",
+      "title": "Chapter 9 — Potential Energy and Conservation of Energy",
+      "words": 5369,
+      "images": 0
+    },
+    {
+      "file": "chapters/10-linear-momentum-and-collisions.md",
+      "path": "/Users/nik/Documents/Cowork/university-physics-bundle-with-llms/chapters/10-linear-momentum-and-collisions.md",
+      "title": "Chapter 9 — Linear Momentum and Collisions",
+      "words": 5568,
+      "images": 0
+    },
+    {
+      "file": "chapters/11-fixed-axis-rotation.md",
+      "path": "/Users/nik/Documents/Cowork/university-physics-bundle-with-llms/chapters/11-fixed-axis-rotation.md",
+      "title": "Chapter 11 — Fixed-Axis Rotation",
+      "words": 7410,
+      "images": 0
+    },
+    {
+      "file": "chapters/12-angular-momentum.md",
+      "path": "/Users/nik/Documents/Cowork/university-physics-bundle-with-llms/chapters/12-angular-momentum.md",
+      "title": "Chapter 12 — Angular Momentum",
+      "words": 5872,
+      "images": 0
+    },
+    {
+      "file": "chapters/13-static-equilibrium-and-elasticity.md",
+      "path": "/Users/nik/Documents/Cowork/university-physics-bundle-with-llms/chapters/13-static-equilibrium-and-elasticity.md",
+      "title": "Static Equilibrium and Elasticity",
+      "words": 5220,
+      "images": 0
+    },
+    {
+      "file": "chapters/14-gravitation.md",
+      "path": "/Users/nik/Documents/Cowork/university-physics-bundle-with-llms/chapters/14-gravitation.md",
+      "title": "Chapter 14 — Gravitation",
+      "words": 4514,
+      "images": 0
+    },
+    {
+      "file": "chapters/15-fluid-mechanics.md",
+      "path": "/Users/nik/Documents/Cowork/university-physics-bundle-with-llms/chapters/15-fluid-mechanics.md",
+      "title": "Fluid Mechanics: How Things Flow",
+      "words": 4977,
+      "images": 0
+    },
+    {
+      "file": "chapters/17-oscillations.md",
+      "path": "/Users/nik/Documents/Cowork/university-physics-bundle-with-llms/chapters/17-oscillations.md",
+      "title": "Chapter 17 — Oscillations",
+      "words": 6417,
+      "images": 0
+    },
+    {
+      "file": "chapters/18-waves.md",
+      "path": "/Users/nik/Documents/Cowork/university-physics-bundle-with-llms/chapters/18-waves.md",
+      "title": "Waves: Patterns That Travel",
+      "words": 6250,
+      "images": 0
+    },
+    {
+      "file": "chapters/19-sound.md",
+      "path": "/Users/nik/Documents/Cowork/university-physics-bundle-with-llms/chapters/19-sound.md",
+      "title": "Chapter 19 — Sound",
+      "words": 7836,
+      "images": 0
+    }
+  ]
+}
